@@ -1,5 +1,11 @@
 # App Cep Flutter
 
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+![Dart](https://img.shields.io/badge/Dart-blue)
+![MobX](https://img.shields.io/badge/MobX-orange)
+![Hive](https://img.shields.io/badge/Hive-yellow)
+![Status](https://img.shields.io/badge/status-concluído-green)
+
 Aplicativo desenvolvido em Flutter para busca de CEPs com integração à API ViaCEP.
 
 Funcionalidades
