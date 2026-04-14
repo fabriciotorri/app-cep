@@ -35,9 +35,13 @@ Capturas de Tela
 
 ![WhatsApp Image 2026-04-08 at 11 42 47](https://github.com/user-attachments/assets/e8e3c059-120b-4635-89b4-e5ef68b1dc0a)
 ![WhatsApp Image 2026-04-08 at 11 42 47](https://github.com/user-attachments/assets/e51aac30-51dc-42eb-8c0c-a1ad3c685216)
-<img width="301" height="611" alt="image" src="https://github.com/user-attachments/assets/37d2edad-4b53-4e15-b00b-94d0fb545ba7" />
-<img width="373" height="604" alt="image" src="https://github.com/user-attachments/assets/82249411-d7b0-458d-985d-baf15d39ce6e" />
-<img width="385" height="617" alt="image" src="https://github.com/user-attachments/assets/cdd0e9ff-0516-4b1e-94b2-96648b9c37f5" />
+<img width="449" height="929" alt="image" src="https://github.com/user-attachments/assets/896de71d-30aa-4917-8289-e137300b2133" />
+<img width="465" height="938" alt="image" src="https://github.com/user-attachments/assets/ba213dd1-28e6-4248-a2e0-b00492a458d9" />
+<img width="464" height="929" alt="image" src="https://github.com/user-attachments/assets/841a63d3-c1bb-49d3-b59a-9866469fc3a2" />
+<img width="465" height="944" alt="image" src="https://github.com/user-attachments/assets/3c095b3d-4435-4ec8-817e-5e5da6f742f7" />
+<img width="455" height="936" alt="image" src="https://github.com/user-attachments/assets/20d349ee-1ef1-4fab-b24b-a8ca7405e157" />
+
+
 
 
 
